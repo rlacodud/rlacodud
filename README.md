@@ -6,7 +6,7 @@
 
 ### __블로그__
 
-<a href="https://chaeng03.tistory.com/" target="_blank">https://chaeng03.tistory.com/</a>
+<a href="https://chaeng03.tistory.com" target="_blank"> https://chaeng03.tistory.com </a>
 
 <div align=center>
 	
