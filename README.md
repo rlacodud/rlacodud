@@ -5,7 +5,7 @@
 <br>
 
 ### __블로그__
-[https://chaeng03.tistory.com/](https://chaeng03.tistory.com/){:target="_blank"}
+<a href="https://chaeng03.tistory.com/" target="_blank"></a>
 
   <div align=center>
 	
