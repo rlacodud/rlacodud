@@ -1,4 +1,11 @@
-### Hi there 👋
+# **안녕하세요, 원리를 중시하는 프론트엔드 개발자 김채영입니다.**
+
+#### 성장과 발전을 원동력으로 일하며 빠른 이해력을 기반으로 효율적인 업무 처리에 관심이 많습니다.
+
+<br>
+
+### __블로그__
+[https://chaeng03.tistory.com/](https://chaeng03.tistory.com/)
 
   <div align=center>
 	
