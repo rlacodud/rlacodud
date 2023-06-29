@@ -6,13 +6,13 @@
 
 ### __이력서__
 
-<a href="https://ch03young.notion.site/ch03young/d07f9f6e1072427692ab5323b992d560" target="_blank"> https://ch03young.notion.site/ch03young/ </a>
+<a href="https://ch03young.notion.site/ch03young/d07f9f6e1072427692ab5323b992d560" target="_blank"> Chaeyoung Resume </a>
 
 <br>
 
 ### __블로그__
 
-<a href="https://chaeng03.tistory.com" target="_blank"> https://chaeng03.tistory.com </a>
+<a href="https://chaeng03.tistory.com" target="_blank"> Chaeyoung Blog </a>
 
 <div align=center>
 	
