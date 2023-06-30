@@ -10,6 +10,12 @@
 
 <br>
 
+### __자기소개서__
+
+<a href="https://ch03young.notion.site/17a2c799896e427b9c14ecf3f03bad3a" target="_blank"> Chaeyoung Cover Letter </a>
+
+<br>
+
 ### __블로그__
 
 <a href="https://chaeng03.tistory.com" target="_blank"> Chaeyoung Blog </a>
