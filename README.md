@@ -14,7 +14,7 @@
 
 ### __이력서__
 
-<a href="./김채영_이력서.pdf?raw=1" download>
+<a href="./resume.pdf?raw=1" download>
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge">
 </a>
 
