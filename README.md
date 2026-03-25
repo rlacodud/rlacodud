@@ -14,8 +14,16 @@
 
 ### __이력서__
 
-<a href="./resume.pdf?raw=1" download>
-  <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge">
+<a href="./resume.pdf?raw=1">
+  <img src="https://img.shields.io/badge/Download-Resume-1f6feb?style=for-the-badge">
+</a>
+
+<br>
+
+### __자기소개서__
+
+<a href="./coverletter.pdf?raw=1">
+  <img src="https://img.shields.io/badge/Download-Coverletter-6f42c1?style=for-the-badge">
 </a>
 
 <br>
